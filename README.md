@@ -288,17 +288,4 @@ This project is licensed under the MIT License.
 3. **Permission Errors**: Check file permissions in storage/ directory
 4. **Port Already in Use**: Change port in config.py or kill existing processes
 
-### Debug Tips
 
-1. Use Cursor debugger (F5) to step through code
-2. Check Python interpreter in Cursor (bottom-left)
-3. View output in Cursor terminal
-4. Use "Python: Select Interpreter" to choose correct venv
-
-## 📞 Support
-
-For issues and questions:
-1. Check the troubleshooting section
-2. Review the test cases
-3. Open an issue on GitHub
-4. Check the API documentation at `http://localhost:8000/docs` when running
